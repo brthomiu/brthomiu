@@ -1,10 +1,17 @@
 <h1>Hello, I'm Brad!</h1> 
 
-<h2>Welcome to my GitHub.</h2>
+### Welcome to my GitHub.
 
-I'm a self-taught full stack developer located in Boulder, Colorado. 
+I'm a self-taught software developer located in Boulder, Colorado. 
+<br>
 
-<h2>Technologies I currently use</h2>
+***Tools I currently use:***
+TypeScript, JavaScript, React, Tailwind CSS, Gatsby, WordPress, NodeJS, Jest, Python, SQL, MongoDB, Docker
+<br>
 
-TypeScript, JavaScript, React, Tailwind CSS, Gatsby, WordPress, NodeJS, Python, SQL, Docker
+***Technologies I'm learning & want to use more of:***
+Rust, AWS, Django, React Native, GraphQL, Cypress
+<br>
 
+***My Interests:***
+Web Development, Audio Engineering, Computer Science, Information Security, Game Development
