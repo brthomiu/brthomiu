@@ -1,4 +1,4 @@
-<h1>Hello, I'm Brad! <img width="150" src="/cactus.gif"  alt="cactus"></h1> 
+<h1>Hello, I'm Brad! <img height="100" src="/cactus.gif"  alt="cactus"></h1> 
 
 <h2>Welcome to my GitHub.</h2>
 
