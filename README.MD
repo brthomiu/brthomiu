@@ -6,7 +6,7 @@ I'm a self-taught software developer located in Boulder, Colorado.
 <br>
 
 ***Tools I currently use:*** <br>
-TypeScript, JavaScript, React, Tailwind CSS, Gatsby, WordPress, NodeJS, Jest, Python, SQL, MongoDB, Docker
+TypeScript, Go, JavaScript, React, Tailwind CSS, Gatsby, WordPress, NodeJS, Jest, Python, SQL, MongoDB, Docker
 <br>
 
 ***Technologies I'm learning & want to use more of:*** <br>
