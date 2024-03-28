@@ -1,4 +1,4 @@
-<img src="bradGif.gif" alt="Brad Thompson" />
+<img src="bradgif.gif" alt="Brad Thompson" />
 
 ### Welcome to my GitHub.
 
